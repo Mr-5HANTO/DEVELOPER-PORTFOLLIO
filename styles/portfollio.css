@@ -12,7 +12,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px    200px;
+    padding: 50px    200px;
 }
 .btn-primary{
     height: 64px;
@@ -176,6 +176,7 @@ main{
     gap: 100px;
     padding: 0  200px;
     background: #FFF8F3;
+    padding-bottom: 130px;
 }
 
 
